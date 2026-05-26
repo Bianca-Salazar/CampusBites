@@ -1,0 +1,15 @@
+FUNCIONES PRINCIPALES
+  - Buscar Restaurantes cercanos
+  - Mostrar Precios Accesibles
+  - Ver promociones estudiantiles
+  - Calificaciones de Usuarios
+
+VENTAJAS
+  - Ahorra Tiempo
+  - Ayuda a Estudiantes
+  - Facilita encontrar comida económoca
+
+POSIBLES MEJORAS FUTURAS
+  - Integración con Mapas
+  - Pedidos en línea
+  - Sistema de comentarios
