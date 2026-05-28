@@ -12,6 +12,6 @@ VENTAJAS
   - Facilita encontrar comida económoca
 
 POSIBLES MEJORAS FUTURAS
-  - Integración con Mapas
-  - Pedidos en línea
-  - Sistema de comentarios
+  - Recomendaciones con IA
+  - Ranking de los mejores restaurantes
+  - Notificar sobre promociones 
