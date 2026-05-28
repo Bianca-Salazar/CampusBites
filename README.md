@@ -12,7 +12,7 @@ Muchos estudiantes tienen dificultades para encontrar lugares de comida que se a
 ## Público Objetivo
 Estudiantes universitarios
 
-##Funciones principales
+## Funciones principales
 - Buscar lugares de comida cercanos
 - Mostrar precios accesibles
 - Ver promociones
