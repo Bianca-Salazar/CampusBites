@@ -1,3 +1,5 @@
+NOMBRE APP: VeciYa
+
 FUNCIONES PRINCIPALES
   - Buscar Restaurantes cercanos
   - Mostrar Precios Accesibles
